@@ -3,3 +3,5 @@
 #### https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 #### incomplete, still working on 
+#### PCA 
+#### logit
